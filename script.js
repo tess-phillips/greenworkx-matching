@@ -12,8 +12,12 @@ const increaseRangeBy = 0.2
 module.exports = underThreeJobs
 
 
-// This value is a test input.
+// This value is a test input. Experiment with these (one at a time)
 const userWillingnessInputs = [1, 0.9, 0.5];
+// const userWillingnessInputs = [0.8, 1, 0.8];
+// const userWillingnessInputs = [1, 1, 0.8];
+// const userWillingnessInputs = [0.2, 0.2, 0.2];
+// const userWillingnessInputs = [1, 0, -1];
 
 
 // This is where the algorithm starts checking for relevant jobs.
