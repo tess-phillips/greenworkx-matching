@@ -1,0 +1,12 @@
+{
+  "name": "greenworkx-challenge",
+  "version": "1.0.0",
+  "description": "matching-algorithm",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tess-Phillips",
+  "license": "ISC"
+}

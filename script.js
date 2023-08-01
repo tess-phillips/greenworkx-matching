@@ -15,6 +15,6 @@ let range = 0.1
 
   
 // Example usage:
-const userWillingnessInputs = [-0.2, 0.2, 0.5];
+// const userWillingnessInputs = [-0.2, 0.2, 0.5];
 willingnessFilter(jobs, userWillingnessInputs, range);
   
