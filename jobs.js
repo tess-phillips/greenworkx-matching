@@ -1,3 +1,4 @@
+//jobs.js
 const jobs = [
 	{
     name: "Solar Panel Installer",
