@@ -1,4 +1,4 @@
-const willingnessFilter = require('./script.js'); // Adjust the path based on your project structure
+const willingnessFilter = require('./willingnessFilter.js');
 const jobs = require("./jobs.js")
 
 
