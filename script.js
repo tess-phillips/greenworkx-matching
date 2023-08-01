@@ -9,12 +9,10 @@
 const jobs = require("./jobs.js")
 const willingnessFilter = require("./willingnessFilter.js")
 // let listOfJobOpportunities = []
+// let jobsFiltered
+
 let range = 0.1
+const userWillingnessInputs = [0.2, 0.2, 0.5];
 
-
-
-  
-// Example usage:
-// const userWillingnessInputs = [-0.2, 0.2, 0.5];
-willingnessFilter(jobs, userWillingnessInputs, range);
-  
+jobsFiltered = willingnessFilter(jobs, userWillingnessInputs, range);
+console.log(jobsFiltered)
